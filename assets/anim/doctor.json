@@ -1,0 +1,30 @@
+{
+  "frames": {
+    "Sprite-0002 0.aseprite": {
+      "frame": { "x": 0, "y": 0, "w": 43, "h": 101 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 43, "h": 101 },
+      "sourceSize": { "w": 43, "h": 101 },
+      "duration": 100
+    },
+    "Sprite-0002 1.aseprite": {
+      "frame": { "x": 43, "y": 0, "w": 43, "h": 101 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 43, "h": 101 },
+      "sourceSize": { "w": 43, "h": 101 },
+      "duration": 100
+    }
+  },
+  "meta": {
+    "app": "http://www.aseprite.org/",
+    "version": "1.3-dev",
+    "image": "assets/anim/doctor.png",
+    "format": "RGBA8888",
+    "size": { "w": 86, "h": 101 },
+    "scale": "1",
+    "frameTags": [],
+    "slices": []
+  }
+}

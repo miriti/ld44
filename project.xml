@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<meta title="Ld44" package="com.michael-miriti.ld44" version="1.0.0" company="Michael Miriti" />
+
+	<app main="Main" path="build" file="Ld44" />
+	
+	<source path="source" />
+	
+	<haxelib name="openfl" />
+
+	<!-- TODO: Add to the code base on publishing the code -->
+	<haxelib name="kefir-base" />
+	<haxelib name="openfl-aseprite" />
+	
+	<assets path="assets" />
+
+	<window width="768" height="570" fps="30" resizable="false" background="#f9f5ef" />
+	
+</project>
